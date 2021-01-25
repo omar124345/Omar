@@ -23,7 +23,7 @@ client.on("ready", () => {
   client.user.setActivity(`لجند ما ينبلع`);
   client.user.setStatus("idle");
 });
-const owners = ["455108784579149835", "527826654660132890" , "761716460288344064" , ]
+const owners = ["455108784579149835", "527826654660132890" , "761716460288344064" , "340755335230914561" , ]
 var prefix = "-"; 
 
 client.on("message", async message => {
